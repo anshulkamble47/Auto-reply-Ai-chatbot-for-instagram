@@ -28,7 +28,7 @@ to keep the project simple.
 ---
 
 ## 📺 Demo Video
-A short demo of the bot in action is included in **demo.mp4**.
+A short demo of the bot in action is posted on my linkedin : https://www.linkedin.com/posts/anshul-kamble10_python-automation-artificialintelligence-activity-7404182316794826753-EdJj
 
 ---
 
@@ -54,3 +54,4 @@ Feel free to fork the repo and improve the project!
 ## ⭐ Author
 
 Anshul Kamble
+
